@@ -63,6 +63,7 @@
 
 - type: reaction
   id: Octogen
+  impact: high
   reactants:
     NitricAcid:
       amount: 1
